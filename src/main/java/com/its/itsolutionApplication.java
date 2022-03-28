@@ -31,7 +31,7 @@ public class itsolutionApplication {
 		public String contact() {
 			return "contact";
 		}
-		@RequestMapping(value="/sitemap.xml")
+		@RequestMapping(value="sitemap.xml")
 		public String sitemap() {
 			return "sitemap";
 		}
