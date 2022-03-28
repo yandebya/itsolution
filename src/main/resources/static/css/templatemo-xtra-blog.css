@@ -476,7 +476,7 @@ a:hover figcaption { color: #056767; }
         left: 0;
         top: 0;
         background-color: rgba(56, 204, 204, 0.75);
-        color: white;
+        color: #2de5e5bf;
         padding: 10px 15px;
         transition: all 0.3s ease;
         border-radius: 0;
