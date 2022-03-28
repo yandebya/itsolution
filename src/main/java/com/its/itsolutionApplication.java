@@ -31,6 +31,10 @@ public class itsolutionApplication {
 		public String contact() {
 			return "contact";
 		}
+		@RequestMapping(value="/sitemap.xml")
+		public String sitemap() {
+			return "sitemap";
+		}
 		@RequestMapping(value="/google3d12d904d54204a8.html")
 		public String validation() {
 			return "google3d12d904d54204a8";
