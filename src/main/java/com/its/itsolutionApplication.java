@@ -15,7 +15,7 @@ public class itsolutionApplication {
 	@Controller
 	public class ControlleurCouleur {
 		
-		@RequestMapping(value="/accueil")
+		@RequestMapping(value="/")
 		public String accueil() {
 			return "accueil";
 		}
